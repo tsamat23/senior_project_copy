@@ -1,0 +1,10 @@
+.infoBlock {
+   text-align: center;
+   margin-bottom: 10px;
+}
+.infoBlock__text {
+   border: none;
+   border-radius: 5px;
+   background: #fff1f1;
+   padding: 5px 10px;
+}

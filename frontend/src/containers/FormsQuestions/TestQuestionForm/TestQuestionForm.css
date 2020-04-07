@@ -1,0 +1,21 @@
+.ExplanationBox {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ExplanationBox img {
+    width: 50%;
+    height: 100%;
+    padding-left: 10px;
+}
+
+.ExplanationBox p {
+    padding-top: 41px;
+}
+
+#flat-button-file {
+    display: block;
+    opacity: 0;
+    width: 0;
+    height: 0;
+}

@@ -1,0 +1,32 @@
+.box canvas {
+    width: 100%;
+}
+
+.tools {
+    width: 120px;
+    position: absolute;
+    right: -130px;
+    top: -20px;
+    padding: 10px;
+}
+
+.tools label {
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+input[type=number] {
+    width: 50px;
+}
+
+
+.box {
+    width: 800px;
+    border: 2px solid #cccccc;
+    position: relative;
+}
+
+.colorPicker{
+    margin: 0 13px;
+}

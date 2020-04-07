@@ -1,0 +1,15 @@
+.area {
+    background: #65446d;
+}
+
+.area h2 {
+    text-align: center;
+    color: #ebebeb;
+    font-size: 45px;
+    margin: 0 0 10px 0;
+}
+
+.area p {
+    color: #ebebeb;
+    font-size: 20px;
+}

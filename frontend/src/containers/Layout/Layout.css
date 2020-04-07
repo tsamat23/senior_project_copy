@@ -1,0 +1,10 @@
+.layout {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+
+.container{
+   z-index: 10;
+   position: relative;
+}

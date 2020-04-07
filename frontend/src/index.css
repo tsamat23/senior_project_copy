@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  /*background: #3b3251 url("./assets/images/source.gif") center center no-repeat;*/
+  background: #3b3251;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.skiptranslate{
+  position: absolute;
+  left: 138px;
+  top: 6px;
+  z-index: 10;
+}
+.skiptranslate img {
+  background-image: url(https://pimg-guru.com/1%2F676%2F1676121%2FTranslate+v2_5b4c8d3d-9de3-4e8e-92f8-31d95c156e08.png) !important;
+  background-position: 0px 0px !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 50px;
+  height: 50px;
+}
+
+.skiptranslate > div {
+  height: 50px;
+  width: 50px;
+  overflow: hidden;
+  background: transparent;
+  border: none;
+  border-radius: 10px;
+}
